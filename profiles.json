@@ -127,7 +127,8 @@
     // Add any keybinding overrides to this array.
     // To unbind a default keybinding, set the command to "unbound"
     "keybindings": [
-        { "command": "commandPalette", 
+        { 
+            "command": "commandPalette", 
             "keys": "ctrl+shift+p" 
         }
     ]
